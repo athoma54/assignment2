@@ -39,13 +39,4 @@ public class AddingMachine
 	{
 
 	}
-	public static void main(String [] args )
-	{
-		AddingMachine calculate = new AddingMachine();
-		calculate.add(4);
-		calculate.subtract(2);
-		calculate.add(5);
-		calculate.subtract(9);
-		System.out.println(calculate.toString());
-	}
 }
