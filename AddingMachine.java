@@ -5,7 +5,8 @@
  * Assignment 2
  * Description: The code for this assignment is creating an Adding Machine which is able
  * 				to concatenate the values that's being passed into the parameters of the add
- * 				and the subtract methods. 
+ * 				and the subtract methods. It is also able to calculate the total from both  
+ * 				the add and the subtract methods.
  */
 
 package cse360assign2;
